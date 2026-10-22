@@ -57,14 +57,7 @@ It is built for Scope 3 and procurement teams who today rely on supplier questio
   </tr>
 </table>
 
-### Claude Code extensions
+### Elsewhere
 
-- [peer-orchestra](https://github.com/varunmoka7/peer-orchestra): multi-agent orchestration for Claude Code with themed persona agents.
-- [next-steps-autopilot](https://github.com/varunmoka7/next-steps-autopilot): shows suggested next prompts above the prompt box.
-- [side-chat](https://github.com/varunmoka7/side-chat): ask Claude a side question in a pane next to your work.
-- [layman](https://github.com/varunmoka7/layman): say "I'm lost" and Claude explains its last reply in everyday words.
-- [image-shrinker](https://github.com/varunmoka7/image-shrinker): shrinks big screenshots before Claude reads them.
-- [park](https://github.com/varunmoka7/park): save a session and write a note for the next one.
-- [unattended](https://github.com/varunmoka7/unattended): stops a session from asking questions when nobody is at the keyboard.
-- [reddit-watch](https://github.com/varunmoka7/reddit-watch): watches subreddits and lists posts that could improve your setup.
-- [disk-sweep](https://github.com/varunmoka7/disk-sweep), [read-fence](https://github.com/varunmoka7/read-fence), [skills-az](https://github.com/varunmoka7/skills-az)
+- [moka-apps](https://github.com/moka-apps): my Claude Code mods, grouped by what they do, and the Noor Quran app.
+- [GoCarbonTracker](https://github.com/GoCarbonTracker): the climate disclosure work.
